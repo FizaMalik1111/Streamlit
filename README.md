@@ -1,2 +1,3 @@
-App developed by me
-https://app-fizamalik.streamlit
+Developed by Fiza Maliik
+https://app-fizamalik.streamlit.app/
+
